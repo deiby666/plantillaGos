@@ -1,0 +1,161 @@
+nav{
+    background-image: url(img/wallhaven-4ldo3l.jpg);
+}
+
+.modal-body table tr th{
+    border: solid 2px black;
+    padding: 1px;
+}
+
+.modal-body table tr{
+    border: solid 2px black;
+    padding: 1px;
+}
+
+.modal-body table tbody tr td{
+    border: solid 2px black;
+    padding: 1px;
+}
+
+
+
+.modal-body table{
+    border: solid 2px black;
+    padding: 200px;
+}
+
+.modalsito{
+    background-color: gray;
+    position: relative;
+}
+
+.modalsito table{
+    border: solid black 2px;
+}
+
+.modalsito tr{
+    border: solid black 2px;
+}
+
+.modalsito tr td{
+    padding: 10px;
+    border: solid black 2px; 
+}
+
+.modalsito th{
+    width: 250px;
+    border: solid black 2px; 
+    margin: 10px;
+    padding: 10px;
+}
+
+.modalsito tbody tr th img{
+    width: 100%;
+    height: 250px;
+
+}
+
+.modalsito .cerrar{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 10px;
+}
+
+.nofound{
+    display: none;
+}
+
+.menu{
+    display: flex;
+    color: white;
+    padding: 1rem;
+    gap: 1rem;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fondo{
+    background-image: url(img/wallhaven-4ldo3l.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem; 
+    padding: 1rem;
+    height: 12rem;
+
+}
+
+.padre{
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+
+.imagen{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.contenedor{
+    width: 100%;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.filasForm{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    background-color: #f2f1f2;
+    padding: 1rem;
+    border-radius: 1rem; 
+   
+}
+
+.tarjetas{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+    justify-content: center;
+}
+.detalle{
+    background-color: rgb(1, 1, 36);
+    color: white!important;
+    text-align: center;
+}
+
+.centradito{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.centradito #nombresito{
+    width: 50%;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+footer{
+    background-color: rgb(25, 7, 71);
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+
+
